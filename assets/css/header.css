@@ -48,3 +48,6 @@ div.menu{
 div.menu img{
     width: 24.7%;
 }
+.clearfix{
+    clear: both;
+}
