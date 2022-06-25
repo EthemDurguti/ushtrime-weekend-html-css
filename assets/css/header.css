@@ -1,0 +1,50 @@
+/*  Header Part  */
+body{
+    margin: 0;
+    padding: 20px 40px;
+ }
+ 
+header{
+    width: 100%;
+    /* border: 1px solid black; */
+}
+header div.logo img{
+    width: 40%;
+}
+
+div.nav{
+    background-color: dodgerblue;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 20px;
+    /* border: 1px solid black; */
+}
+.nav a span{
+    letter-spacing: 3px;
+    margin-right: 5px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.title-social-logo{
+    margin-top: 30px;
+}
+div.title{
+    display: inline-block;
+    width: 49%;
+}
+div.social-logo{
+    display: inline-block;
+    width: 49%;
+}
+.social-logo img{
+    width: 60px;
+    float: right;
+}
+
+div.menu{
+    margin-top: 30px;
+}
+div.menu img{
+    width: 24.7%;
+}
